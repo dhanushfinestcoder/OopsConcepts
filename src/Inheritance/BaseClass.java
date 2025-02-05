@@ -37,7 +37,7 @@ public class BaseClass
         System.out.println("Battery :"+batterCap);
     }
 }
-class Child extends  BaseClass
+class Child extends BaseClass
 {
     String bname;
     int batt;
