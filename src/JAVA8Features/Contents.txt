@@ -1,0 +1,7 @@
+Java 8 features
+1 -Lambda expression - used to reduce the creation of unwanted files
+2- Functional Interface - interface can have default and static method
+3- Stream APIS
+4- Optional class
+5-for each can be achieved using lambda expression
+6- Method reference
