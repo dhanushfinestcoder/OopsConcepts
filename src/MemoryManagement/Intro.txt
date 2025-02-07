@@ -1,0 +1,21 @@
+In Java thee are two types of memory present inside the jvm
+* Stack Memory
+* Heap Memory
+
+S-Used to store primitive and references
+H- used to store objects and it has a string pool (new  keyword)
+
+in java there is an amazing feature avaiable gc to collect the unused objects ot that has no ref
+there are three  types of ref avaiable
+Strong - it cant easily removed by gc
+Weak - easily removed by gc
+Soft - it is sim to weak and in case of urgency it will be removed
+
+In heap there will be 2 parts after java 8 meta space is seprated
+
+i) Young gen here the obj are created
+ii) Old gen here the string ref obj are stored
+
+Heap uses Mark and sweep algo
+
+
